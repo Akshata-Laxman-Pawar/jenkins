@@ -8,6 +8,6 @@ int main(void) {
   cout << "I have successfully built and run\n";
   cout << "My name is  Akshata\n";
   cout << "My SRN is PES1UG21CS061\n";
-  cout << "this indicates the code is edited\n";
+  cout << "this indicates the code is written\n";
   return 0;
 }
